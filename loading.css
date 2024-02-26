@@ -1,6 +1,7 @@
 
-
+import url('https://fonts.gooogleapis.com/)
 body {
+    font-family: "Ubuntu", sans-serif;
     height: 100vh;
     display: flex;
     align-items: center;
