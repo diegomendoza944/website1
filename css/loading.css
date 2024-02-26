@@ -11,6 +11,7 @@ import url('https://fonts.gooogleapis.com/)
     .loading-text {
         font-size: 50px;
         color: white;
+        opacity: 1;
     }
 
     .bg {
@@ -22,4 +23,5 @@ import url('https://fonts.gooogleapis.com/)
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
+        filter: blur(0px);
     }
