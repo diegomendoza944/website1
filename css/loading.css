@@ -10,7 +10,7 @@
 
     .loading-text {
         font-size: 50px;
-        color: black;
+        color: white;
         opacity: 1;
     }
 
@@ -19,7 +19,7 @@
         width: 100vw;
         position: absolute;
         z-index: -1;
-        background-image: url("images/nature.jpg");
+        background-image: url("images/Wave.jpg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
