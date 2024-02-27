@@ -6,6 +6,10 @@ int = setInterval(blurring, 50)
 
 fuction blurring (){
     load = load + 1
+
+    if (load > 99){
+        clearInterval(int)
+    }
     loadText.innerText = '${load}%'
     loadText.style.opacity = 1
     bg.style.filter = "blur(10px)"
