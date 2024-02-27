@@ -4,7 +4,7 @@ load = 0
 
 int = setInterval(blurring, 50)
 
-fuction blurring (){
+function blurring (){
     load++
 
     if (load > 99){
