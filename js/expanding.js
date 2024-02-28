@@ -5,3 +5,9 @@ panels.ForEach(panel => {
         panel.classList.add('active')
     })
 })
+
+fuction removeActiveClasses(){
+    panels.forEach(panel => {
+        panel.classList.remove('active')
+    })
+}
