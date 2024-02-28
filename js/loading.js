@@ -15,4 +15,3 @@ function blurring (){
 
     bg.style.filter = `blur($(30-(load/100)*30)px)`
 }
-
