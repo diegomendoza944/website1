@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    width 90vw;
+    width: 90vw;
     display: flex;
 }
 .panel {
