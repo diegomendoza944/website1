@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: Ivory;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.btn{
+    background-color: blue;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1ren;
+    border-radius: 5px;
+    border: none;
+    color: ivory;
+    cursor: pointer;
+    font-family: "Madimi One", sans-serif;
+}
+
