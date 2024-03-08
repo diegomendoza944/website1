@@ -71,7 +71,7 @@ nav ul li:nth-of-type(1) {
 
 header {
   background-color: var(--primary-color);
-  color: white;
+  color: Ivory;
   font-size: 130%;
   position: relative;
   padding: 40px 15px;
