@@ -124,6 +124,10 @@ input[type='sumbit'] {
     display: none;
 }
 
+.modal-container.show-model{
+  display: block;
+}
+
 .modal {
     background-color: ivory;
     position: absolute;
