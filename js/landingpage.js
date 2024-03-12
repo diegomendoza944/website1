@@ -2,7 +2,6 @@ toggle = document.getElementById('toggle')
 open = document.getElementById('open')
 model = document.getElementById('model')
 close = document.getElementById('close')
-
 // toggle Nav
 toggle.addEventListener('click', () => {
   document.body.classList.toggle('show-nav')
