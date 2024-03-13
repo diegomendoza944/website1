@@ -11,4 +11,6 @@ body {
     font-family: "Mulish", sans-serif;
 }
 
-
+header p {
+    height: 10vh;
+}
