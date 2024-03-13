@@ -11,11 +11,4 @@ body {
     font-family: "Mulish", sans-serif;
 }
 
-header {
-    background-color: var(--primary-color);
-    color: Ivory;
-    font-size: 130%;
-    position: relative;
-    padding: 40px 15px;
-    text-align: center;
-  }
+
