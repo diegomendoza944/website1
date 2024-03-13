@@ -13,30 +13,3 @@ body {
 
 
 
-.hero h1 {
-    font-size: 20px;
-  }
-
-  .content h2, .content h3. .content h4, .content h5, .content h6, .content h7 {
-    font-size: 150%;
-    margin: 20px 0;
-  }
-
-
-
-  .hero p {
-    font-size: 20px;
-    letter-spacing: 1px;
-  }
-
-  .content h2, .content h3 {
-    font-size: 150%;
-    margin: 20px 0;
-  }
-
-  .content p {
-    color: #555;
-    line-height: 30px;
-    letter-spacing: 1.2px;
-  }
-
