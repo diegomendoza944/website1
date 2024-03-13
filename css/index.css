@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: Ivory;
+    background-color: White;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -13,5 +13,5 @@ body {
 
 
 .hero h1 {
-    height: 10vh;
+    height: 50vh;
 }
