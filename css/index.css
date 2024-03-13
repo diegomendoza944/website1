@@ -11,7 +11,7 @@ body {
     font-family: "Mulish", sans-serif;
 }
 
-.container {
-    
+.container h1{
+    height: 50vh;
 }
 
