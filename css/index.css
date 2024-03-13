@@ -12,6 +12,12 @@ body {
 }
 
 
+
 .hero h1 {
     font-size: 40px;
+  }
+
+  .content h2, .content h3. .content h4, .content h5, .content h6, .content h7 {
+    font-size: 150%;
+    margin: 20px 0;
   }
