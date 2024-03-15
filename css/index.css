@@ -12,27 +12,19 @@ body {
     margin: 0;
 }
 
-.btn{
-    background-color: blue;
-    font-size: 1.2rem;
-    padding: 1.5rem 3rem;
-    margin: 1ren;
-    border-radius: 5px;
-    border: none;
-    color: ivory;
-    cursor: pointer;
-    font-family: "Madimi One", sans-serif;
-}
 
 .hero {
     background-color: ;
 }
 
 .expanding {
-    height: 40vh;
-    width: 10vw;
-    border: 2;
     background-color: blue;
-    font-size: 2rem;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1ren;
     border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: "Madimi One", sans-serif;
 }
