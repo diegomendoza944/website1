@@ -28,3 +28,63 @@ body {
     cursor: pointer;
     font-family: "Madimi One", sans-serif;
 }
+
+.loading {
+    background-color: blue;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1ren;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: "Madimi One", sans-serif;
+}
+
+.nav {
+    background-color: blue;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1ren;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: "Madimi One", sans-serif;
+}
+
+.search {
+    background-color: blue;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1ren;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: "Madimi One", sans-serif;
+}
+
+.sound {
+    background-color: blue;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1ren;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: "Madimi One", sans-serif;
+}
+
+.landing {
+    background-color: blue;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1ren;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: "Madimi One", sans-serif;
+}
