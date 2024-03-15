@@ -25,5 +25,8 @@ body {
 }
 
 .container {
-    
+    background-color: blue;
+}
+.landing {
+    background-color: red;
 }
