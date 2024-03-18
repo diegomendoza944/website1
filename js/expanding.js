@@ -1,13 +1,13 @@
-panels = document.querySelectorAll('.panel')
+heros = document.querySelectorAll('.hero')
 
-panels.forEach(panel => {
-    panel.addEventListener('click', () => {
+heros.forEach(panel => {
+    hero.addEventListener('click', () => {
         removeActiveClasses()
-        panel.classList.add('active')
+        hero.classList.add('active')
     })
 })
 function removeActiveClasses(){
-    panels.forEach(panel => {
-        panel.classList.remove('active')
+    heros.forEach(hero => {
+        hero.classList.remove('active')
     })
 }

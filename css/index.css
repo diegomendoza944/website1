@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: green;
+    background-color: blue;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,12 +13,71 @@ body {
 }
 
 
-.hero {
-    background-color: ;
-}
+.title {
+    height: 80vh;
+    color: white;
+    display: flex;
+    margin-bottom: 20px;
+    z-index: -4;
+  }
 
-.expanding {
-    background-color: blue;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Expanding {
+    background-color: white;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
     margin: 1ren;
@@ -30,7 +89,7 @@ body {
 }
 
 .loading {
-    background-color: blue;
+    background-color: white;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
     margin: 1ren;
@@ -42,7 +101,7 @@ body {
 }
 
 .nav {
-    background-color: blue;
+    background-color: white;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
     margin: 1ren;
@@ -54,7 +113,7 @@ body {
 }
 
 .search {
-    background-color: blue;
+    background-color: white;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
     margin: 1ren;
@@ -66,7 +125,7 @@ body {
 }
 
 .sound {
-    background-color: blue;
+    background-color: white;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
     margin: 1ren;
@@ -78,7 +137,7 @@ body {
 }
 
 .landing {
-    background-color: blue;
+    background-color: white;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
     margin: 1ren;
